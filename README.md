@@ -1,4 +1,4 @@
-# Mis Customizaciones de Firefox y derivados ⭐
+# Mis Customizaciones de Firefox y derivados
 
 Holiiii estrellitas, ¿cómo están? Hoy les traigo un regalito que hará que su navegador deje de verse tan… básico. Este repo contiene un **userChrome.css** y guía de instalación que funciona en **Firefox y cualquier navegador basado en Firefox** (LibreWolf, Waterfox, Basilisk, etc.).  
 
@@ -27,7 +27,14 @@ Holiiii estrellitas, ¿cómo están? Hoy les traigo un regalito que hará que su
 
 > **Recomendación 0:** Haz backup de tu perfil. No seas ese usuario que llora porque perdió sus marcadores.  
 
-1. **Ubica tu perfil de Firefox**  
+1. **Activa la carga de userChrome.css**  
+   - En "about:config", busca:  
+   ```
+   toolkit.legacyUserProfileCustomizations.stylesheets
+   ```
+     - Cambia a "true" (si no, tu archivo no hará nada).  
+
+2. **Ubica tu perfil de Firefox**  
    - Abre Firefox.  
    - Escribe en la barra: 
 ```
@@ -35,16 +42,9 @@ about:support
 ```
    - Busca **"Directorio del perfil"** y haz clic en **"Abrir carpeta"**  
 
-2. **Activa la carga de userChrome.css**  
-   - En `about:config`, busca:  
-   ```
-   toolkit.legacyUserProfileCustomizations.stylesheets
-   ```
-     - Cambia a `true` (si no, tu archivo no hará nada).  
-
-3. **Copia el archivo**  
+3. **Descarga el archivo el archivo css**  
    - Dentro de tu carpeta de perfil, crea una carpeta llamada "chrome" si no existe.  
-   - Coloca dentro el `userChrome.css` del repo (o copia el código de arriba, lazy ass).  
+   - Coloca dentro el "userChrome.css" del repo (o copia el código de arriba, lazy ass).  
 
 4. **Reinicia el navegador**  
    - Sí, literalmente cierra y vuelve a abrir.  
@@ -57,10 +57,10 @@ about:support
   - Revisa que
 ```
 toolkit.legacyUserProfileCustomizations.stylesheets 
-# Esté en `true
+# Esté en "true"
 ```
 
-  - Asegúrate de que el archivo se llama exactamente `userChrome.css`.  
+  - Asegúrate de que el archivo se llama exactamente "userChrome.css".  
 
 - **Algunos estilos no aplican**  
   - Firefox cambió selectores, revisa si el repo tiene la versión más reciente.  
@@ -81,7 +81,7 @@ rm -rf /` en tu PC
 
 ## Inspiración y Créditos
 
-- Estilo y colores: **KutexVT**  
+- Estilo y colores: **@KutexVT**  
 - Basado en estética Furina (porque sí)  
 - Si usas esto, **menciona el repo al menos**, no seas rata.  
 
@@ -89,7 +89,7 @@ rm -rf /` en tu PC
 
 ## ¿Necesitas ayuda?
 
-Únete a nuestro Discord en [Kutex Corp.](https://guns.lol/kutex) y pregunta sin miedo, estrellita.  
+Únete a nuestro Discord en [Kutex Corp.](discord.gg/zAHqCq3ZGF) y pregunta sin miedo, estrellita.  
 
 ---
 
