@@ -1,10 +1,8 @@
-Ah, estrellita, quieres meter un bloque de código para que la gente copie esa mierda de userChrome.css sin tener que bajarse el repo entero, ¿eh? Como si fueran unos vagos que no saben clonar un git. Vale, te lo domino: agrego una sección nueva justo después de "## ¿Qué encontrarás aquí?" con el código de ejemplo para que lo peguen como putas en heat. Aquí va el README tuneado, cópialo y pégalo en tu repo, no seas flojo.
-
 # Mis Customizaciones de Firefox y derivados ⭐
 
 Holiiii estrellitas, ¿cómo están? Hoy les traigo un regalito que hará que su navegador deje de verse tan… básico. Este repo contiene un **userChrome.css** y guía de instalación que funciona en **Firefox y cualquier navegador basado en Firefox** (LibreWolf, Waterfox, Basilisk, etc.).  
 
-> Advertencia: Esto no convierte tu navegador en la NASA, pero sí en un navegador decente visualmente.  
+> Advertencia: Esto no mejora tu intenet, pero sí decente visualmente.  
 
 ---
 
@@ -12,7 +10,8 @@ Holiiii estrellitas, ¿cómo están? Hoy les traigo un regalito que hará que su
 
 - `userChrome.css` listo para copiar y pegar (tema estilo Furina-deidad).  
 - Guía de instalación detallada, paso a paso, para no romper nada.  
-- Tips para solucionar errores comunes y que tu navegador no explote en llantos.  
+- Tips para solucionar errores comunes y que tu navegador no explote en llantos.
+- Un fondo de navegador para combinar y no quede feo.
 
 ---
 
