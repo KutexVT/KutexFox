@@ -1,4 +1,4 @@
-# Mis Customizaciones de Firefox y derivados 🪐
+# Mis Customizaciones de Firefox y derivados ⭐
 
 Holiiii estrellitas, ¿cómo están? Hoy les traigo un regalito que hará que su navegador deje de verse tan… básico. Este repo contiene un **userChrome.css** y guía de instalación que funciona en **Firefox y cualquier navegador basado en Firefox** (LibreWolf, Waterfox, Basilisk, etc.).  
 
@@ -8,17 +8,9 @@ Holiiii estrellitas, ¿cómo están? Hoy les traigo un regalito que hará que su
 
 ## ¿Qué encontrarás aquí?
 
-- `userChrome.css` listo para copiar y pegar (tema estilo Furina, porque lo demás es aburrido).  
+- `userChrome.css` listo para copiar y pegar (tema estilo Furina-deidad).  
 - Guía de instalación detallada, paso a paso, para no romper nada.  
 - Tips para solucionar errores comunes y que tu navegador no explote en llantos.  
-
----
-
-## Preview (Porque todos queremos presumir)
-
-Imagínate esto: tu navegador con pestañas suaves, transparencias controladas, scroll estético y botones que no parecen del 2004.  
-
-*(Aquí puedes poner un GIF o imagen de tu navegador personalizado)*
 
 ---
 
@@ -26,7 +18,7 @@ Imagínate esto: tu navegador con pestañas suaves, transparencias controladas, 
 
 - Navegador basado en Firefox (sí, Firefox normal cuenta).  
 - Sistema operativo: Windows, Linux o macOS.  
-- Paciencia, porque esto es tweaking manual.  
+- Paciencia, MUCHA. 
 
 ---
 
@@ -82,7 +74,7 @@ Imagínate esto: tu navegador con pestañas suaves, transparencias controladas, 
 
 ## ¿Necesitas ayuda?
 
-Únete a nuestro Discord en [guns.lol/kutex](https://guns.lol/kutex) y pregunta sin miedo, estrellita.  
+Únete a nuestro Discord en [Kutex Corp.](https://guns.lol/kutex) y pregunta sin miedo, estrellita.  
 
 ---
 
