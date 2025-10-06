@@ -14,14 +14,6 @@ Holiiii estrellitas, ¿cómo están? Hoy les traigo un regalito que hará que su
 - Guía de instalación detallada, paso a paso, para no romper nada.  
 - Tips para solucionar errores comunes y que tu navegador no explote en llantos.  
 
-### Código de userChrome.css para copiar (porque eres vago)
-
-Aquí te lo sirvo en bandeja, copia esta porquería y pégala en tu archivo. Si no es el CSS real, sustitúyelo por el de verdad, no me jodas.
-
-```
-ejemplo
-```
-
 ---
 
 ## Requisitos mínimos
@@ -38,16 +30,21 @@ ejemplo
 
 1. **Ubica tu perfil de Firefox**  
    - Abre Firefox.  
-   - Escribe en la barra: `about:support`  
+   - Escribe en la barra: 
+```
+about:support
+```
    - Busca **"Directorio del perfil"** y haz clic en **"Abrir carpeta"**  
 
 2. **Activa la carga de userChrome.css**  
    - En `about:config`, busca:  
-     - `toolkit.legacyUserProfileCustomizations.stylesheets`  
+   ```
+   toolkit.legacyUserProfileCustomizations.stylesheets
+   ```
      - Cambia a `true` (si no, tu archivo no hará nada).  
 
 3. **Copia el archivo**  
-   - Dentro de tu carpeta de perfil, crea una carpeta llamada `chrome` si no existe.  
+   - Dentro de tu carpeta de perfil, crea una carpeta llamada "chrome" si no existe.  
    - Coloca dentro el `userChrome.css` del repo (o copia el código de arriba, lazy ass).  
 
 4. **Reinicia el navegador**  
@@ -58,7 +55,12 @@ ejemplo
 ## Solución de errores comunes
 
 - **No pasa nada**  
-  - Revisa que `toolkit.legacyUserProfileCustomizations.stylesheets` esté en `true`.  
+  - Revisa que
+```
+toolkit.legacyUserProfileCustomizations.stylesheets 
+# Esté en `true
+```
+
   - Asegúrate de que el archivo se llama exactamente `userChrome.css`.  
 
 - **Algunos estilos no aplican**  
@@ -70,7 +72,11 @@ ejemplo
 
 - **Nada funciona y quieres llorar**  
   - Respira. Haz backup y prueba paso a paso.  
-  - No uses `rm -rf /` en tu PC, aunque suene tentador.  
+  - No uses 
+```
+rm -rf /` en tu PC
+```
+  aunque suene tentador.  
 
 ---
 
